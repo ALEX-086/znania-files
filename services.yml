@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-15 12:30">
+    <shop>
+        <name>Знания-Групп</name>
+        <company>ООО &quot;Знания-Групп&quot;</company>
+        <url>https://znania-group.ru</url>
+
+        <categories>
+            <category id="1">БДД (Безопасность дорожного движения)</category>
+            <category id="2">ДОПОГ</category>
+            <category id="3">Охрана труда</category>
+            <category id="4">Преподаватели автошкол</category>
+            <category id="5">Транспорт</category>
+        </categories>
+
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+
+        <offers>
+            <offer id="serv_001" type="service" available="true">
+                <url>https://znania-group.ru/specialist-registraciya</url>
+                <price>6000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <name>Специалист по осмотру ТС при госрегистрации</name>
+                <description>Профессиональная переподготовка / повышение квалификации специалистов, уполномоченных на проведение осмотра ТС при государственной регистрации. Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a00000198cde393d3ff2e8b4ca240ea02d5/orig</picture>
+            </offer>
+
+            <offer id="serv_002" type="service" available="true">
+                <url>https://znania-group.ru/kontroler</url>
+                <price>6000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <name>Контролёр (механик) по выпуску ТС</name>
+                <description>Профессиональная переподготовка / повышение квалификации контролеров/механиков по выпуску транспортных средств. Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a00000198cde1e08519957ad40314552d4c/orig</picture>
+            </offer>
+
+            <offer id="serv_003" type="service" available="true">
+                <url>https://znania-group.ru/specialist-bdd</url>
+                <price>6000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <name>Специалист ответственный за обеспечение БДД</name>
+                <description>Профессиональная переподготовка (256 ч.) специалистов, ответственных за безопасность дорожного движения Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/1540730/2a00000198cddd706c6de84123e1e92c724b/orig</picture>
+            </offer>
+
+            <offer id="serv_004" type="service" available="true">
+                <url>https://znania-group.ru/konsultant-dopog</url>
+                <price>3500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>2</categoryId>
+                <name>Подготовка/переподготовка консультанта ДОПОГ</name>
+                <description>Обучение консультантов по ДОПОГ(дорожной перевозке опасных грузов). Переподготовка (256 ч.), Повышение квалификации (76 ч.). Ускоренное обучение. Подготовка комплекта документов для экзамена Ространснадзора.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a00000198cdd25b5a8cdc94ab179bc207bf/orig</picture>
+            </offer>
+
+            <offer id="serv_005" type="service" available="true">
+                <url>https://znania-group.ru/programms-dopog</url>
+                <price>5000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>2</categoryId>
+                <name>Подготовка водителей на ДОПОГ</name>
+                <description>Обучение водителей на Базовый курс, Цистерны, Класс 1, Класс 7. Ускоренное обучение от 5 дней. Подготовка комплекта документов для экзамена Ространснадзора.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a00000198cdc7b19270cd63ce527b142195/orig</picture>
+            </offer>
+
+            <offer id="serv_006" type="service" available="true">
+                <url>https://znania-group.ru/programmy-oxran-truda</url>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>3</categoryId>
+                <name>Программы А / Б / В</name>
+                <description>Обучение по программам обучения по охране труда «А / Б / В». Ускоренное обучение. После прохождения курса выдается протокол проверки знаний установленного образца с внесением сведений в реестр обученных по охране труда лиц (ФГИС СОУТ).</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/20340178/2a0000019dcff57b715fdd1f5b94ae8aecb5/orig</picture>
+            </offer>
+
+            <offer id="serv_007" type="service" available="true">
+                <url>https://znania-group.ru/pervaya_pomoshch</url>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>3</categoryId>
+                <name>Оказание первой помощи пострадавшим</name>
+                <description>Обучение по программе «Оказание первой помощи пострадавшим». Ускоренное обучение. После прохождения курса выдается протокол проверки знаний установленного образца с внесением сведений в реестр обученных по охране труда лиц (ФГИС СОУТ).</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/9240521/2a0000019dcff4aa795fe808f0b0dbf6fbfb/orig</picture>
+            </offer>
+
+            <offer id="serv_008" type="service" available="true">
+                <url>https://znania-group.ru/tehnosfernaya-bezopasnost</url>
+                <price>7000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>3</categoryId>
+                <name>Техносферная безопасность и охрана труда</name>
+                <description>Обучение по программе «Техносферная безопасность». Ускоренное обучение. После прохождения курса выдается диплом о профессиональной переподготовке установленного образца.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/5373629/2a0000019dcff25158e0dddc2ec67a0f8e61/orig</picture>
+            </offer>
+
+            <offer id="serv_009" type="service" available="true">
+                <url>https://znania-group.ru/sredstva_zashchity</url>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>3</categoryId>
+                <name>Использование средств индивидуальной защиты</name>
+                <description>Обучение по программе «Использование средств индивидуальной защиты». Ускоренное обучение. После прохождения курса выдается протокол проверки знаний установленного образца с внесением сведений в реестр обученных по охране труда лиц (ФГИС СОУТ).</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/1643978/2a0000019dcfef937628c5dee35ef3b1103a/orig</picture>
+            </offer>
+
+            <offer id="serv_010" type="service" available="true">
+                <url>https://znania-group.ru/prepodavatel-pervaya-pomoshch</url>
+                <price>3500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <name>Подготовка преподавателей первой помощи</name>
+                <description>Профессиональная переподготовка / повышение квалификации преподавателей первой помощи. Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО. Обучения по оказанию первой помощи, включающее обязательное тестирование в ЕИСОТ.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019dcfec825877e6d8ef83d956383e/orig</picture>
+            </offer>
+
+            <offer id="serv_011" type="service" available="true">
+                <url>https://znania-group.ru/prepodavatel-pdd</url>
+                <price>3500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <name>Подготовка преподавателей ПДД</name>
+                <description>Профессиональная переподготовка / повышение квалификации преподавателей по подготовке водителей автотранспортных средств Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a00000198cddaa8e40f7f28e57f5c73d7ae/orig</picture>
+            </offer>
+
+            <offer id="serv_012" type="service" available="true">
+                <url>https://znania-group.ru/instruktor-po-vozhdeniyu</url>
+                <price>3500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <name>Подготовка инструктора по вождению (МПОВ)</name>
+                <description>Профессиональная переподготовка / повышение квалификации мастеров производственного обучения вождению (МПОВ) - инструктор по вождению транспортных средств. Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2805495/2a00000198cdd67a40cccfd64bff2b8e13e0/orig</picture>
+            </offer>
+
+            <offer id="serv_013" type="service" available="true">
+                <url>https://znania-group.ru/podgotovka-na-gbo</url>
+                <price>2500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <name>Подготовка водителей транспортных средств с ГБО</name>
+                <description>Обучение водителей, эксплуатирующих автотранспортные средства с газобаллонным оборудованием. Ускоренное обучение. Документы установленного образца.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a0000019dd01853418dd547c3d736fb5d21/orig</picture>
+            </offer>
+
+            <offer id="serv_014" type="service" available="true">
+                <url>https://znania-group.ru/voditel-nastavnik</url>
+                <price>1500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <name>Подготовка водителей-наставников</name>
+                <description>Обучение водителей-наставников автомобильного транспорта. Ускоренное обучение. Документы установленного образца.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a00000198cdeb104880a3219b23cc6059a0/orig</picture>
+            </offer>
+
+            <offer id="serv_015" type="service" available="true">
+                <url>https://znania-group.ru/specsignaly</url>
+                <price>2500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <name>Подготовка водителей на Спецсигналы</name>
+                <description>Подготовка водителей к управлению транспортными средствами, оборудованными устройствами для подачи специальных световых и звуковых сигналов. Ускоренное обучение. Документы установленного образца с внесением в ФИС ФРДО.</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a00000198cde9a204c85ee379add09bb191/orig</picture>
+            </offer>
+
+            <offer id="serv_016" type="service" available="true">
+                <url>https://znania-group.ru/ezhegodnaya-20programma</url>
+                <price>400</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <name>Ежегодная 20-ти часовая программа подготовки водителей</name>
+                <description>Обязательный ежегодный 20-часовой курс подготовки водителей автотранспортных предприятий. Обучение можно пройти дистанционно, также возможна очная форма. Ускоренное обучение. Документы установленного образца</description>
+                <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a00000198cde51e2009c197124e93b6c29a/orig</picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
